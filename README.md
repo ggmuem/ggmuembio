@@ -10,12 +10,6 @@ O Grupo de Estudos em Genética e Melhoramento (GGM)
 O GGM terá o compromisso com a promoção de cursos, workshops, simpósios e demais eventos que possam contribuir com difusão de novos conhecimentos, ferramentas e tecnologias aplicadas a genética e melhoramento. Além disso, o GGM vai estar proporcionado maior interação entre professores, estudantes e profissionais do setor público e privado, permitindo assim maior troca de informações e experiências na área de Genética e Melhoramento.
 <br>
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=helioszjr&theme=aura_dark)
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=helioszjr&theme=aura_dark)
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=helioszjr&theme=aura_dark)
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=helioszjr&theme=aura_dark)
-![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=helioszjr&theme=aura_dark&utcOffset=8)
-
 <!--[![Linkedin Badge](https://img.shields.io/badge/-andressamarcal-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/andressa-mar%C3%A7al-6787b988/)](https://www.linkedin.com/in/andressa-mar%C3%A7al-6787b988/)
 
 
