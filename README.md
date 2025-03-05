@@ -1,7 +1,7 @@
 ## Hello <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px">
 **I'm GGM** :brazil:
 
-:mailbox:  brunadaviesw@gmail.com // http://brunaw.com/
+:mailbox:  ggmuem@gmail.com // http://www.pgm.uem.br/
 <br>
 :mortar_board:  
 First-Class Honours (BSc) in Statistics, current PhD Student in Bayesian Machine Learning 
