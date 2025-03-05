@@ -1,5 +1,5 @@
 ## Hello <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px">
-**I'm Bruna Wundervald** :woman_technologist: :brazil:
+**I'm GGM** :brazil:
 
 :mailbox:  brunadaviesw@gmail.com // http://brunaw.com/
 <br>
