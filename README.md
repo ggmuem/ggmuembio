@@ -1,7 +1,7 @@
 ## Hello <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px">
 **I'm GGM** :brazil:
 
-:mailbox:  ggmuem@gmail.com // http://www.pgm.uem.br/
+:mailbox:  ggmuem@gmail.com // http://www.pgm.uem.br
 <br>
 
 O Grupo de Estudos em Genética e Melhoramento (GGM) da Universidade Estadual de Maringá (UEM), este foi criado no mês de setembro de 2024, por meio da iniciativa conjunta entre estudantes e professores do Programa de Pós-graduação em Genética e Melhoramento da UEM.
