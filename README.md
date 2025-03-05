@@ -4,7 +4,8 @@
 :mailbox:  ggmuem@gmail.com // http://www.pgm.uem.br/
 <br>
 :mortar_board:  
-First-Class Honours (BSc) in Statistics, current PhD Student in Bayesian Machine Learning 
+O Grupo de Estudos em Genética e Melhoramento (GGM) da Universidade Estadual de Maringá (UEM), este foi criado no mês de setembro de 2024, por meio da iniciativa conjunta entre estudantes e professores do Programa de Pós-graduação em Genética e Melhoramento da UEM.
+O GGM terá o compromisso com a promoção de cursos, workshops, simpósios e demais eventos que possam contribuir com difusão de novos conhecimentos, ferramentas e tecnologias aplicadas a genética e melhoramento. Além disso, o GGM vai estar proporcionado maior interação entre professores, estudantes e profissionais do setor público e privado, permitindo assim maior troca de informações e experiências na área de Genética e Melhoramento.
 <br>
 
 
