@@ -1,11 +1,10 @@
 ## Hello <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px">
-**I'm GGM - UEM** :brazil:
+**I'm Bruna Wundervald** :woman_technologist: :brazil:
 
-:mailbox:  ggmuem@gmail.com // http://www.pgm.uem.br
+:mailbox:  brunadaviesw@gmail.com // http://brunaw.com/
 <br>
 :mortar_board:  
-O Grupo de Estudos em Genética e Melhoramento (GGM) da Universidade Estadual de Maringá (UEM), este foi criado no mês de setembro de 2024, por meio da iniciativa conjunta entre estudantes e professores do Programa de Pós-graduação em Genética e Melhoramento da UEM.
-O GGM terá o compromisso com a promoção de cursos, workshops, simpósios e demais eventos que possam contribuir com difusão de novos conhecimentos, ferramentas e tecnologias aplicadas a genética e melhoramento. Além disso, o GGM vai estar proporcionado maior interação entre professores, estudantes e profissionais do setor público e privado, permitindo assim maior troca de informações e experiências na área de Genética e Melhoramento.
+First-Class Honours (BSc) in Statistics, current PhD Student in Bayesian Machine Learning 
 <br>
 
 
@@ -62,13 +61,12 @@ Here are some ideas to get you started:
 ![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=flat-square&logo=gitlab)
 ![BitBucket](https://img.shields.io/badge/-BitBucket-darkblue?style=flat-square&logo=bitbucket)
 ![Raspberry Pi](https://img.shields.io/badge/-Raspberry%20Pi-C51A4A?style=flat-square&logo=Raspberry-Pi)
+-->
 
 <br>
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=ggmuembio&count_private=true&show_icons=true&include_all_commits=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ggmuembio&hide=TeX&layout=compact)
+![Github Stats](https://github-readme-stats.vercel.app/api?username=brunaw&count_private=true&show_icons=true&include_all_commits=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=brunaw&hide=TeX&layout=compact)
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=.)
-<br>
-
 
