@@ -1,12 +1,5 @@
-# ggmuembio
-O Grupo de Estudos em Genética e Melhoramento (GGM) 
 ## Hello <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px">
 **I'm GGM - UEM** :brazil:
-
-
-
-## Hello <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px">
-**I'm GGM - UEM** :woman_technologist: :brazil:
 
 :mailbox:  ggmuem@gmail.com // http://www.pgm.uem.br
 <br>
